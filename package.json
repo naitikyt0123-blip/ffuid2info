@@ -1,17 +1,6 @@
 {
-  "name": "ff-fast-api",
-  "version": "3.0.0",
-  "description": "Super Fast Free Fire Player Info API (Bypassed)",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
   "dependencies": {
-    "express": "^4.18.2",
-    "axios": "^1.6.0",
-    "qs": "^6.11.2"
-  },
-  "engines": {
-    "node": ">=18.0.0"
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0"
   }
 }
